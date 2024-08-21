@@ -1,0 +1,19 @@
+Accuracy: 0.317
+
+Classification Report:
+               precision    recall  f1-score   support
+
+Heart Disease       0.31      0.24      0.27       234
+     Diabetes       0.24      0.12      0.16       240
+       Cancer       0.35      0.13      0.19       230
+         COPD       0.33      0.68      0.44       296
+
+     accuracy                           0.32      1000
+    macro avg       0.31      0.29      0.27      1000
+ weighted avg       0.31      0.32      0.28      1000
+
+Confusion Matrix:
+[[ 57  25  26 126]
+ [ 50  28  13 149]
+ [ 37  25  31 137]
+ [ 39  37  19 201]]

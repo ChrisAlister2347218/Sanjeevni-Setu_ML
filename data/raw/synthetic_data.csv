@@ -1,0 +1,1001 @@
+Age,Gender,Blood_Pressure,Cholesterol_Level,Blood_Sugar_Level,BMI,Smoking_Status,Physical_Activity_Level,Family_History,Medical_History,Disease
+58,Female,131,282,99,36.44106926379961,Former,High,Yes,None,Cancer
+71,Female,155,279,73,25.9508831394781,Former,High,Yes,Heart Disease,Diabetes
+48,Male,144,211,128,36.915482845856204,Current,Moderate,No,Cancer,Heart Disease
+34,Female,131,298,77,26.94970562093792,Never,High,Yes,Diabetes,Heart Disease
+62,Male,123,228,81,25.221128324923466,Current,Low,No,Cancer,Heart Disease
+27,Female,119,298,188,27.98777804639338,Current,Moderate,No,Heart Disease,Diabetes
+40,Female,102,287,103,34.773833090847106,Never,Low,No,COPD,Diabetes
+58,Female,102,207,151,20.772044613007875,Current,High,No,None,COPD
+77,Female,107,269,167,22.321222749184383,Former,Low,No,Diabetes,Cancer
+38,Female,121,282,196,38.93178616458802,Current,High,No,COPD,Cancer
+42,Male,128,214,144,21.86081580238986,Never,High,No,Heart Disease,Heart Disease
+30,Male,135,162,174,30.4900009944832,Never,Moderate,Yes,Cancer,Diabetes
+30,Female,118,231,118,30.744918266562635,Former,Moderate,No,None,Diabetes
+43,Female,151,288,148,28.771738165105386,Never,High,Yes,Diabetes,Heart Disease
+72,Male,151,298,162,32.18439546869001,Never,Moderate,No,COPD,Heart Disease
+55,Female,146,201,87,23.056187967547604,Former,Low,No,COPD,COPD
+59,Female,105,266,165,30.15856989108846,Current,Moderate,Yes,None,Cancer
+43,Male,145,175,107,26.187811615431738,Former,Moderate,Yes,Cancer,Cancer
+22,Female,99,183,156,32.55667971184216,Current,Low,No,Heart Disease,Cancer
+41,Female,119,201,157,21.106917954209287,Former,Moderate,Yes,Cancer,COPD
+72,Male,114,261,119,30.559303170468475,Current,High,No,Cancer,Heart Disease
+21,Male,173,231,77,22.07594781843312,Former,Low,No,Cancer,Heart Disease
+43,Male,94,191,138,24.1301473885308,Current,High,Yes,None,Cancer
+63,Female,154,170,190,22.81161560711883,Former,Low,Yes,None,Cancer
+49,Male,138,191,133,22.022431157113978,Current,High,Yes,Heart Disease,COPD
+57,Male,92,290,190,36.165640934334675,Former,High,Yes,Cancer,Diabetes
+21,Male,134,262,134,24.285566488539587,Never,Moderate,No,None,Diabetes
+79,Male,103,254,176,38.396723201017885,Current,High,Yes,Heart Disease,Cancer
+40,Male,119,166,169,39.3383835575942,Former,Moderate,Yes,Heart Disease,COPD
+52,Male,157,269,151,30.56773033861614,Current,Low,Yes,Cancer,Cancer
+31,Female,107,286,120,21.14602469864598,Current,High,Yes,Diabetes,Diabetes
+77,Female,151,278,152,26.240061354350786,Former,High,Yes,Cancer,Cancer
+41,Male,126,279,181,35.55010979366071,Current,Low,No,Diabetes,Diabetes
+63,Male,114,209,125,26.082596031335548,Former,Low,No,Heart Disease,Diabetes
+44,Male,137,197,129,19.914378802661354,Never,High,Yes,None,Diabetes
+68,Female,154,178,189,30.249268040420134,Current,Low,Yes,COPD,Heart Disease
+46,Female,142,246,92,36.59265873291277,Never,Moderate,No,Heart Disease,Heart Disease
+78,Female,168,159,82,35.51038051715705,Current,Low,Yes,None,Cancer
+61,Female,162,207,170,21.852709082867772,Current,Low,No,Heart Disease,Diabetes
+47,Female,104,170,93,32.80082151707427,Current,High,No,Cancer,Heart Disease
+79,Female,138,177,177,22.851093795584237,Former,Moderate,Yes,Diabetes,Cancer
+35,Female,177,183,80,22.80056576014779,Never,Low,No,Heart Disease,Cancer
+34,Female,157,157,86,37.22957901271407,Current,Moderate,Yes,None,Cancer
+66,Female,101,228,94,23.492716960285065,Former,Moderate,Yes,Cancer,Cancer
+70,Male,148,294,163,23.791441623396246,Current,Moderate,No,COPD,Cancer
+63,Male,126,236,90,18.01437459674859,Former,High,No,Cancer,COPD
+74,Male,150,237,153,37.15471875076139,Current,Low,Yes,Diabetes,Diabetes
+71,Male,132,218,106,35.43708589060097,Never,High,No,Cancer,Cancer
+76,Female,159,236,111,31.801236571994917,Never,Low,Yes,COPD,COPD
+22,Female,128,250,170,34.50584680665453,Current,Low,No,None,Diabetes
+56,Male,145,157,117,21.34506848333882,Former,High,No,Heart Disease,Heart Disease
+70,Female,152,226,172,28.083119080926657,Current,Moderate,Yes,Diabetes,Cancer
+26,Male,135,236,97,25.72682652167318,Former,Moderate,Yes,COPD,COPD
+40,Female,177,192,110,20.063083577654364,Current,Low,Yes,Diabetes,Heart Disease
+28,Male,100,278,168,28.694870674728328,Former,High,No,Cancer,COPD
+58,Female,151,258,116,38.256272307537984,Never,Moderate,Yes,Diabetes,Diabetes
+37,Female,166,166,174,18.88130061911528,Current,Moderate,Yes,COPD,Diabetes
+23,Male,114,282,193,24.412140096863467,Never,Low,No,Heart Disease,Heart Disease
+44,Female,160,297,82,22.565900596525477,Never,Low,No,Heart Disease,COPD
+79,Male,141,170,169,23.23922638064532,Current,High,Yes,Diabetes,Cancer
+33,Male,93,207,100,37.985560141346255,Current,Low,Yes,None,Cancer
+69,Male,148,259,199,28.297519193154383,Former,Moderate,Yes,Diabetes,Heart Disease
+77,Male,161,288,85,28.258587084676016,Former,Moderate,Yes,Cancer,Heart Disease
+28,Female,109,292,142,34.73266413401621,Never,Moderate,No,Heart Disease,Heart Disease
+45,Female,152,284,123,21.398828488108368,Former,Moderate,No,Heart Disease,COPD
+72,Female,143,177,169,28.71983779020112,Former,High,Yes,Heart Disease,Cancer
+21,Male,163,200,178,27.459674710663315,Current,High,Yes,None,Cancer
+39,Female,146,154,156,31.132035192026436,Former,Low,Yes,None,Cancer
+47,Male,179,154,77,39.99026947150965,Never,Low,No,COPD,Heart Disease
+66,Female,130,243,76,34.92787566980503,Former,Low,Yes,Diabetes,Cancer
+79,Female,92,245,105,26.753045466383398,Never,High,Yes,Diabetes,Diabetes
+26,Female,95,157,87,36.20616715002903,Current,Moderate,No,Cancer,Heart Disease
+63,Male,94,213,72,21.755583992874563,Never,Low,No,Heart Disease,Cancer
+27,Female,94,287,97,18.670201098797122,Former,Moderate,Yes,None,COPD
+66,Female,143,187,139,22.497864194214007,Current,Low,Yes,Cancer,Heart Disease
+54,Male,136,260,97,25.489054234513713,Former,Low,No,Cancer,Diabetes
+33,Female,176,261,123,29.232776664110318,Current,Low,Yes,None,Diabetes
+36,Male,138,230,134,31.5328410919064,Current,Low,Yes,Diabetes,COPD
+55,Female,98,285,169,38.03332577871728,Former,Low,No,Heart Disease,COPD
+69,Male,109,253,90,29.216788210110067,Former,Moderate,No,Diabetes,Heart Disease
+59,Male,150,222,82,29.028064181766048,Current,Low,No,Cancer,Heart Disease
+23,Female,124,198,126,19.105346216105605,Current,Moderate,Yes,Heart Disease,Diabetes
+21,Male,139,185,118,18.768054158436925,Former,High,No,COPD,COPD
+25,Male,171,275,187,30.125519162160185,Never,Low,No,Cancer,Heart Disease
+73,Male,151,217,123,27.63992949146358,Former,Moderate,Yes,Diabetes,Diabetes
+61,Male,106,227,122,36.46196868956657,Current,High,Yes,Diabetes,COPD
+23,Male,177,254,113,21.534950863660594,Former,High,No,Diabetes,Diabetes
+73,Male,92,271,116,18.54937656657509,Never,High,No,None,Cancer
+48,Female,121,268,122,27.878852894462767,Former,Moderate,Yes,Cancer,COPD
+37,Male,102,263,143,23.224528248549664,Current,Low,Yes,Heart Disease,Heart Disease
+45,Male,178,159,115,19.091516213454423,Former,Low,No,Diabetes,Heart Disease
+63,Female,162,298,82,33.94116231064784,Current,Moderate,No,Diabetes,Cancer
+53,Female,157,289,171,20.455045999059443,Current,Low,Yes,None,COPD
+29,Female,103,240,93,31.38302900017098,Former,Moderate,No,Heart Disease,Diabetes
+55,Female,100,151,71,24.183094503671562,Current,Low,Yes,Cancer,Heart Disease
+33,Female,145,267,150,21.816913107810485,Current,High,No,COPD,Cancer
+50,Female,156,162,169,26.35453350422498,Never,Low,Yes,None,Cancer
+67,Female,118,244,180,35.63180707690498,Never,Moderate,Yes,Cancer,COPD
+34,Male,98,293,171,26.6260586919006,Never,Moderate,No,COPD,COPD
+27,Male,156,181,86,34.516932282643225,Never,High,No,Diabetes,Heart Disease
+33,Female,114,181,81,20.760698529581315,Current,Moderate,Yes,Diabetes,Cancer
+42,Male,165,273,185,35.00097123263174,Former,Low,No,Heart Disease,Diabetes
+79,Male,131,160,93,23.21253314794627,Current,Low,No,COPD,Cancer
+76,Male,98,159,98,32.9026488575552,Current,High,No,Diabetes,Diabetes
+59,Female,168,164,191,30.44719420650192,Current,Moderate,Yes,Diabetes,Diabetes
+40,Female,129,166,159,38.44118377865712,Former,High,No,Heart Disease,Heart Disease
+35,Male,114,295,134,26.52109539545691,Never,Low,No,Cancer,Cancer
+64,Female,94,208,153,19.45563415435769,Current,High,Yes,Diabetes,Diabetes
+37,Male,100,227,188,18.421420682127565,Current,Moderate,No,None,COPD
+66,Male,148,273,85,36.190888341400566,Never,High,No,None,Diabetes
+72,Male,177,263,173,29.544184028551506,Current,Moderate,Yes,Cancer,COPD
+43,Male,168,171,161,35.05536914036888,Former,Moderate,Yes,COPD,COPD
+45,Female,127,181,96,23.15736320025332,Current,Low,No,Heart Disease,Cancer
+44,Female,161,262,102,25.591842401291142,Current,Low,No,None,COPD
+79,Female,94,269,124,18.662285188649015,Never,Low,Yes,None,Diabetes
+79,Male,137,298,76,39.15283114063047,Current,Moderate,Yes,Cancer,COPD
+79,Female,179,271,126,32.69309394741789,Current,High,No,COPD,Cancer
+64,Male,107,181,195,38.53051193070473,Former,Moderate,No,COPD,Heart Disease
+60,Female,159,268,81,23.84092096343959,Never,Low,No,Cancer,Diabetes
+48,Male,126,188,85,31.45219944696454,Never,Low,Yes,None,Diabetes
+34,Male,149,161,112,32.926999302438034,Former,High,No,Heart Disease,Cancer
+64,Male,137,167,186,24.986093405666946,Current,Low,Yes,None,Cancer
+20,Female,166,298,180,36.65840317034386,Never,Low,Yes,COPD,Cancer
+44,Female,117,290,120,38.83755218380546,Never,Low,Yes,None,Cancer
+26,Female,158,298,144,37.4668125893121,Current,High,No,Heart Disease,Diabetes
+28,Female,166,275,77,34.259473470666194,Current,Moderate,No,Diabetes,Heart Disease
+43,Male,170,285,114,24.10422295394899,Never,Low,No,None,COPD
+20,Female,129,195,128,24.1955529263239,Current,High,Yes,Cancer,COPD
+63,Female,134,253,173,39.193927049812835,Never,Low,No,Diabetes,Heart Disease
+27,Male,151,284,167,18.226258910585223,Current,High,Yes,Cancer,Heart Disease
+43,Male,147,235,148,33.75309941132718,Current,Low,Yes,Cancer,Heart Disease
+30,Male,156,299,193,33.537415576215764,Former,High,Yes,Cancer,Cancer
+70,Female,145,238,73,31.699169900895544,Current,Low,Yes,None,Diabetes
+36,Male,129,171,159,39.78239461391105,Former,Moderate,Yes,COPD,Diabetes
+27,Male,129,241,173,24.861347586801955,Current,Low,Yes,Diabetes,Diabetes
+54,Male,166,178,188,25.479381003451458,Never,High,No,Heart Disease,Cancer
+54,Female,122,162,125,19.736666864824223,Never,Low,Yes,COPD,Diabetes
+52,Male,95,151,165,27.741559003962223,Current,Moderate,No,None,Cancer
+78,Female,177,178,144,23.743067577166656,Current,Low,Yes,Cancer,Diabetes
+24,Female,108,176,101,25.554507447908172,Never,High,No,Heart Disease,Heart Disease
+61,Male,169,199,97,36.36057938562381,Current,High,No,Diabetes,COPD
+58,Male,129,244,91,38.58065929760491,Former,Moderate,No,COPD,COPD
+77,Female,148,237,86,22.086127584114084,Former,High,No,COPD,Cancer
+60,Male,148,193,128,26.19519649417625,Former,Low,Yes,Heart Disease,Diabetes
+47,Male,137,171,159,38.429872366538675,Former,Low,Yes,None,COPD
+26,Female,130,246,175,19.3597861351629,Former,Low,Yes,Diabetes,Heart Disease
+28,Female,102,152,95,20.03193161845033,Current,High,Yes,Heart Disease,Heart Disease
+27,Male,134,267,94,21.581401762537045,Current,Low,No,Cancer,Heart Disease
+31,Female,178,168,114,31.094682350791246,Former,Low,No,Diabetes,Cancer
+53,Male,142,172,152,21.310389962131943,Current,Low,No,COPD,Cancer
+52,Male,131,179,80,39.29768039191614,Current,Moderate,Yes,Heart Disease,Diabetes
+67,Male,152,188,173,27.82771959968745,Former,High,No,COPD,Heart Disease
+74,Female,116,257,137,29.03339512770366,Current,High,Yes,COPD,Diabetes
+42,Male,127,260,164,23.426489547718944,Current,High,No,COPD,Diabetes
+43,Male,149,174,134,28.361125553564136,Current,Moderate,No,None,Heart Disease
+56,Male,96,277,118,32.562099918014255,Former,High,No,COPD,Diabetes
+54,Female,94,260,121,34.52589701298894,Current,Moderate,No,Cancer,COPD
+63,Female,134,285,171,34.585097819618085,Never,Moderate,No,Cancer,Cancer
+59,Female,147,255,126,30.713604479269943,Never,High,Yes,Diabetes,Diabetes
+41,Female,120,293,116,37.895915049864854,Former,Low,No,COPD,Heart Disease
+46,Female,112,221,95,35.9829726407344,Never,Low,Yes,COPD,Cancer
+54,Male,131,278,183,34.65505852336976,Former,High,Yes,Heart Disease,Cancer
+20,Female,99,257,74,19.223321476970135,Never,High,Yes,None,Diabetes
+54,Female,121,154,153,18.151315168832284,Never,Moderate,Yes,Diabetes,COPD
+56,Female,142,152,121,22.673840098300406,Never,High,Yes,COPD,Diabetes
+66,Male,119,281,174,32.59751906609595,Former,Moderate,Yes,Heart Disease,COPD
+33,Female,128,253,123,27.04634475541601,Former,High,Yes,None,Cancer
+22,Female,120,213,84,26.85293770458486,Current,Low,Yes,Diabetes,Diabetes
+20,Male,171,255,130,37.4609115410515,Former,Low,No,Diabetes,Heart Disease
+24,Female,91,247,191,37.70238265890045,Never,High,No,COPD,Diabetes
+45,Male,167,159,90,38.001855809178885,Never,Moderate,Yes,Diabetes,COPD
+74,Male,166,298,115,24.9053176833306,Former,Low,Yes,Heart Disease,COPD
+33,Male,101,277,107,33.20322788026376,Former,Moderate,Yes,Diabetes,Diabetes
+58,Male,128,195,131,23.975929988036132,Former,High,No,Cancer,COPD
+46,Male,155,215,155,22.193416327637895,Current,High,No,Heart Disease,Cancer
+28,Female,102,261,147,22.06191406164212,Never,Low,Yes,None,Diabetes
+34,Male,135,162,115,25.52636765899907,Current,High,Yes,None,COPD
+34,Male,116,286,72,27.459067635156078,Current,Low,No,COPD,Diabetes
+45,Female,106,235,75,36.280881763211504,Never,Moderate,No,COPD,Diabetes
+61,Male,149,239,162,20.637604056399667,Never,Low,Yes,Cancer,Heart Disease
+79,Female,153,207,77,34.16836864268767,Former,Low,Yes,None,Diabetes
+32,Female,177,203,177,29.692008112164718,Former,Moderate,Yes,None,Heart Disease
+70,Female,124,161,144,24.334797538871833,Current,Low,Yes,None,COPD
+51,Male,159,163,146,28.842030859722144,Former,Low,No,None,Heart Disease
+58,Male,172,270,119,24.5987255350945,Former,High,No,Diabetes,Heart Disease
+68,Male,119,270,80,31.11380301524273,Never,Moderate,Yes,Heart Disease,Heart Disease
+71,Female,160,169,164,27.544566302815372,Never,Low,Yes,Heart Disease,Cancer
+51,Male,163,224,139,21.61692163973533,Former,Moderate,Yes,Cancer,Heart Disease
+23,Male,152,293,85,20.564827640225328,Never,Moderate,No,Diabetes,Diabetes
+49,Male,117,219,137,30.02730500558686,Former,Low,Yes,None,Heart Disease
+56,Female,149,205,168,37.85308673229427,Never,High,Yes,None,Diabetes
+42,Female,168,250,117,25.56706910426908,Never,Moderate,Yes,COPD,Heart Disease
+58,Male,126,281,133,34.12600235889771,Never,Low,No,COPD,Cancer
+64,Male,111,260,159,32.49054980867487,Never,Moderate,Yes,Cancer,COPD
+34,Male,157,274,145,38.494208114808586,Former,High,No,None,Heart Disease
+62,Male,109,281,170,36.0615823805811,Current,High,Yes,Cancer,Heart Disease
+48,Female,157,169,158,30.465315695920186,Never,High,Yes,Diabetes,Cancer
+55,Female,153,287,87,32.45467096115036,Former,Low,Yes,Heart Disease,Heart Disease
+32,Female,106,173,88,37.764502264848765,Former,Low,No,None,Diabetes
+51,Female,101,186,124,26.789413260912568,Never,High,Yes,Diabetes,Heart Disease
+26,Male,111,203,171,25.1894835288711,Current,Low,Yes,None,Heart Disease
+78,Male,106,252,187,18.23784383997432,Never,High,No,COPD,COPD
+70,Male,99,298,73,36.18412363221221,Former,Low,No,Cancer,COPD
+41,Female,154,187,177,35.62157540887402,Current,High,No,COPD,Heart Disease
+47,Male,111,153,184,20.29799939820333,Former,Moderate,Yes,Heart Disease,Cancer
+21,Female,179,206,98,30.690862384919406,Never,High,No,COPD,COPD
+61,Female,171,169,128,28.207597359671524,Current,High,Yes,None,Heart Disease
+64,Male,139,166,194,20.61160010120045,Former,Low,No,COPD,COPD
+76,Male,103,268,167,39.572500995335915,Former,Low,No,None,Heart Disease
+72,Male,153,220,86,22.72330952419382,Former,Low,No,Heart Disease,COPD
+25,Female,136,153,176,19.479151961992343,Never,Low,Yes,COPD,COPD
+47,Male,118,163,112,31.08664234904201,Current,Low,Yes,Cancer,Diabetes
+47,Female,165,152,149,34.25506689692672,Never,Low,Yes,Cancer,Heart Disease
+63,Male,125,229,77,18.713755813038112,Never,Moderate,Yes,Cancer,Heart Disease
+63,Female,141,204,175,32.49178805199449,Never,High,Yes,COPD,Heart Disease
+39,Female,165,281,77,29.710421270931995,Current,High,Yes,COPD,Heart Disease
+49,Male,96,269,165,20.271830195251066,Never,High,Yes,COPD,COPD
+30,Female,118,173,163,21.795525292819967,Never,Moderate,Yes,None,Diabetes
+77,Female,100,231,134,30.495434540953774,Never,High,Yes,Heart Disease,Diabetes
+74,Male,122,296,108,24.519867497292346,Never,Moderate,No,Cancer,Cancer
+47,Female,95,209,150,38.64294603032896,Former,Moderate,No,None,Heart Disease
+44,Male,168,296,153,36.01228504864912,Never,Moderate,Yes,Cancer,Cancer
+58,Female,121,198,157,39.638478543300586,Former,High,Yes,None,COPD
+52,Male,140,212,155,23.712758456909107,Never,Moderate,Yes,COPD,Cancer
+20,Male,164,259,162,39.33391992155549,Current,High,Yes,Cancer,Heart Disease
+76,Female,147,299,155,27.487145135414274,Former,High,No,COPD,Diabetes
+46,Female,176,258,113,25.645413496902602,Former,Low,No,Cancer,Diabetes
+76,Female,115,225,143,19.107689593325773,Former,Low,Yes,Diabetes,Heart Disease
+71,Female,135,179,105,19.160835672911258,Former,Moderate,No,None,COPD
+32,Female,118,207,170,33.224247630826405,Current,Moderate,No,Diabetes,Heart Disease
+60,Male,93,266,173,28.074437877548615,Never,High,Yes,None,COPD
+22,Female,170,249,135,22.983475772794325,Former,Moderate,Yes,Heart Disease,Diabetes
+58,Male,102,168,124,31.507346739155118,Current,Moderate,Yes,Cancer,COPD
+25,Male,128,243,160,23.562878601502447,Former,High,Yes,Heart Disease,Heart Disease
+27,Female,104,262,91,30.707898595577298,Never,Moderate,No,Heart Disease,Heart Disease
+46,Male,118,295,170,25.902592433619187,Former,Moderate,Yes,None,Heart Disease
+28,Male,118,212,190,36.11814898546002,Current,High,No,Diabetes,COPD
+56,Male,164,265,162,36.055315536869145,Never,High,Yes,COPD,COPD
+52,Male,121,262,177,28.50170875869283,Current,Low,No,None,COPD
+70,Female,91,196,79,25.718020405370343,Never,High,Yes,COPD,Diabetes
+61,Male,136,206,78,25.97631552430008,Never,Low,Yes,Heart Disease,Cancer
+63,Female,167,267,103,35.725719564700796,Never,Moderate,No,COPD,Cancer
+43,Female,173,194,198,25.219948621547463,Former,High,No,Diabetes,Heart Disease
+34,Male,111,294,158,22.599306221550613,Current,High,No,None,Diabetes
+78,Female,164,153,162,19.86314352125675,Current,High,Yes,Diabetes,COPD
+73,Female,116,297,140,28.267248659456985,Current,Moderate,No,Diabetes,Heart Disease
+51,Female,156,196,136,28.60690617623652,Never,Low,No,None,Diabetes
+51,Male,170,292,186,36.49999162886395,Former,Moderate,No,Diabetes,Heart Disease
+43,Female,145,196,163,22.867251321813406,Never,Moderate,No,Cancer,Diabetes
+60,Female,110,227,168,26.381808020704796,Current,High,No,Cancer,Diabetes
+71,Female,136,273,182,35.784926255661205,Former,Low,No,Cancer,Cancer
+68,Male,169,224,172,36.11971943647742,Former,Moderate,No,COPD,Heart Disease
+68,Female,148,252,160,26.4614436715329,Former,High,No,Diabetes,COPD
+77,Male,173,286,159,28.10072851230698,Current,Moderate,No,None,Cancer
+71,Male,95,239,86,24.672289598684223,Former,Moderate,Yes,None,Cancer
+31,Male,108,293,87,38.51620732522487,Former,High,Yes,COPD,COPD
+58,Male,146,218,185,20.610162846314765,Never,High,No,None,Diabetes
+21,Male,158,210,162,38.54248730603234,Never,Low,Yes,Cancer,COPD
+22,Male,92,287,160,33.04506194037755,Former,Moderate,Yes,Diabetes,Heart Disease
+68,Female,90,199,151,29.694587359108084,Former,High,No,None,COPD
+56,Male,147,152,137,18.71849933725891,Never,High,No,None,Diabetes
+68,Female,127,256,183,28.46311622008418,Never,Low,No,Heart Disease,COPD
+75,Female,104,262,70,26.97045831006011,Never,Low,No,Heart Disease,Diabetes
+36,Male,123,243,127,21.546813863452698,Current,High,No,Heart Disease,Diabetes
+78,Female,150,267,178,32.441011277014454,Current,Low,No,Diabetes,Heart Disease
+68,Female,124,230,185,39.36531996210229,Never,High,Yes,Cancer,COPD
+21,Female,153,258,156,30.368153843419552,Former,Moderate,No,Cancer,COPD
+21,Female,114,200,79,33.72457208176681,Never,Low,Yes,Cancer,Heart Disease
+47,Male,113,296,128,19.50590995645237,Current,Moderate,No,Diabetes,Diabetes
+73,Female,101,184,110,27.188673907973886,Former,Moderate,No,Diabetes,COPD
+42,Male,107,195,174,20.55988667361891,Current,Moderate,Yes,Heart Disease,Heart Disease
+56,Female,104,218,191,31.48150838180323,Former,High,No,None,Diabetes
+51,Female,169,242,91,38.6466074807114,Current,Moderate,No,COPD,Heart Disease
+52,Male,116,213,167,32.55911011437605,Former,Moderate,Yes,COPD,COPD
+20,Female,161,198,137,19.689667062917273,Former,Moderate,No,None,Heart Disease
+38,Female,149,298,125,25.80265650967182,Former,High,Yes,Heart Disease,Cancer
+21,Female,135,223,168,30.114594347698734,Former,Moderate,No,None,Diabetes
+72,Male,178,154,145,26.870570634931546,Current,Moderate,No,None,Cancer
+63,Female,106,249,95,36.34016823045379,Current,Low,Yes,COPD,Cancer
+45,Male,142,219,184,35.92276210361976,Former,High,No,Heart Disease,Diabetes
+51,Female,97,239,178,31.460282442270874,Former,Moderate,Yes,Diabetes,Diabetes
+25,Male,168,153,116,26.216074792919514,Current,Low,Yes,COPD,Heart Disease
+51,Male,116,275,140,23.61740022279137,Former,High,Yes,Diabetes,Diabetes
+74,Female,135,188,109,20.329235000688847,Former,High,No,Heart Disease,Cancer
+23,Female,139,278,92,25.807749036704188,Former,High,No,None,Cancer
+74,Male,160,173,175,27.089795378569832,Never,High,Yes,Cancer,COPD
+30,Male,92,206,153,32.86810435228962,Former,High,No,Cancer,Diabetes
+75,Female,153,249,185,32.479516134546614,Never,High,No,Heart Disease,Cancer
+78,Male,133,219,178,19.542379072107654,Former,Moderate,No,Cancer,COPD
+36,Female,142,190,110,26.695704939485474,Current,Moderate,Yes,Diabetes,COPD
+57,Female,113,209,181,21.99913507878196,Never,Moderate,No,Cancer,Heart Disease
+43,Female,149,257,181,21.449879516969723,Never,Moderate,Yes,Heart Disease,Cancer
+24,Female,92,206,172,36.20064729421941,Former,Low,No,Heart Disease,Heart Disease
+71,Male,109,180,115,18.922134767757665,Former,Moderate,No,Diabetes,Cancer
+53,Female,135,233,137,27.22202326984667,Never,High,Yes,Cancer,Heart Disease
+25,Male,104,185,191,21.7004804268634,Current,Moderate,No,Cancer,Heart Disease
+41,Female,114,257,84,37.345264744926425,Current,Moderate,Yes,None,Diabetes
+30,Male,167,255,198,30.25489129205077,Former,High,No,COPD,Heart Disease
+67,Female,160,235,180,23.09037400029066,Current,Moderate,Yes,Heart Disease,Diabetes
+35,Male,106,284,93,29.05340031766028,Current,Moderate,No,None,COPD
+52,Male,173,163,96,34.09269991346855,Former,Moderate,No,Heart Disease,Cancer
+28,Female,98,269,109,39.078596196227544,Current,Low,No,None,COPD
+79,Female,127,287,93,22.849812093399215,Former,Moderate,Yes,COPD,Cancer
+78,Female,137,229,93,37.49599898684559,Never,High,Yes,None,COPD
+25,Female,149,293,73,38.55469051168478,Former,High,Yes,Heart Disease,Cancer
+35,Male,152,255,136,38.161251979705455,Never,Moderate,No,Cancer,Heart Disease
+48,Female,175,219,103,31.979115850962017,Never,Moderate,Yes,Heart Disease,Cancer
+22,Male,91,193,185,31.856054397563568,Current,Moderate,Yes,Diabetes,Cancer
+39,Male,177,222,92,26.8706339300441,Current,High,Yes,Diabetes,COPD
+79,Female,161,194,178,34.55275341068334,Current,High,Yes,Diabetes,COPD
+78,Male,100,256,138,29.688468403720503,Former,Low,Yes,Diabetes,COPD
+55,Male,153,233,164,32.90363756702248,Current,Low,Yes,COPD,Diabetes
+38,Male,166,231,131,27.4260738846735,Never,Low,Yes,Cancer,Diabetes
+45,Male,170,256,126,34.09292220894906,Current,High,Yes,Cancer,Cancer
+22,Female,161,170,123,36.13837338730008,Current,Low,Yes,Heart Disease,Cancer
+38,Female,110,156,139,21.221597645261955,Former,Moderate,Yes,None,Heart Disease
+39,Female,107,219,170,36.32445374263301,Former,Moderate,No,Heart Disease,Heart Disease
+51,Female,153,276,126,29.886523699386757,Never,High,No,Heart Disease,Cancer
+26,Male,171,292,172,36.58264999998494,Former,Low,Yes,Heart Disease,Diabetes
+71,Male,127,297,154,27.48863753950232,Current,Moderate,No,Heart Disease,Cancer
+60,Female,121,292,130,26.338890678426772,Former,High,No,Cancer,Heart Disease
+52,Female,100,298,72,38.13133611537889,Never,Low,Yes,None,Diabetes
+59,Female,134,269,197,23.525723886064828,Current,Moderate,Yes,Heart Disease,Diabetes
+58,Male,178,277,155,36.572671156295144,Never,Low,Yes,Cancer,Heart Disease
+37,Female,122,291,116,28.64845259520689,Former,High,No,Heart Disease,Cancer
+59,Female,130,206,145,29.310099736127714,Former,Low,Yes,Diabetes,COPD
+20,Female,97,207,107,24.786302192768648,Never,High,No,Heart Disease,Cancer
+30,Male,100,170,156,30.606928413618345,Current,Low,Yes,Heart Disease,Cancer
+47,Male,175,231,127,25.15464631807665,Former,Moderate,No,COPD,Heart Disease
+76,Male,140,218,119,18.86392711331635,Former,High,No,Diabetes,Diabetes
+44,Male,177,280,99,23.983969317575834,Current,High,Yes,None,Heart Disease
+69,Male,130,236,170,18.140338954944994,Former,High,Yes,Heart Disease,Cancer
+42,Male,106,198,94,39.52380531525085,Never,Low,No,None,COPD
+50,Male,165,296,181,39.246438616034446,Former,Low,No,Diabetes,COPD
+49,Male,135,264,195,26.69341654439071,Former,Moderate,Yes,Heart Disease,COPD
+61,Female,121,238,192,34.02415879547221,Current,High,Yes,COPD,Heart Disease
+54,Female,168,234,116,25.60773416502935,Never,High,No,Cancer,Diabetes
+26,Male,169,277,187,32.764049455891474,Current,Low,Yes,COPD,Heart Disease
+79,Male,143,289,108,35.71946094701154,Former,Low,No,COPD,COPD
+35,Female,175,266,85,38.82863738322929,Former,Moderate,Yes,Cancer,Cancer
+45,Male,109,276,91,26.804670068692786,Current,Moderate,Yes,Cancer,Diabetes
+67,Male,122,220,123,35.23255562503305,Current,Low,Yes,Cancer,Heart Disease
+76,Male,163,235,85,23.850425913906612,Current,High,No,Heart Disease,Heart Disease
+71,Female,129,182,128,39.78731068346026,Never,Moderate,Yes,None,Diabetes
+79,Female,121,230,100,18.566931172815725,Former,Low,No,None,Diabetes
+68,Female,91,210,101,31.27763374302466,Current,Low,Yes,Cancer,Cancer
+21,Female,122,210,78,32.5091315963292,Former,High,No,COPD,Diabetes
+20,Female,166,247,79,33.13700225563083,Never,Low,No,Diabetes,Cancer
+67,Male,119,177,86,20.648526733359958,Never,Low,Yes,Cancer,COPD
+31,Female,122,192,137,38.647655236408866,Never,Moderate,No,COPD,COPD
+24,Male,166,235,117,21.986032139101823,Never,Low,No,COPD,Heart Disease
+56,Male,115,166,180,31.7005748712765,Former,Low,No,Heart Disease,COPD
+51,Female,111,247,192,22.89887374070787,Never,Moderate,No,Heart Disease,COPD
+78,Female,155,247,170,24.75876117446796,Never,High,Yes,None,Cancer
+74,Male,127,214,171,30.022087918018734,Current,High,Yes,None,Heart Disease
+28,Male,179,223,134,27.178255208420683,Never,Moderate,Yes,Diabetes,Diabetes
+60,Male,135,234,120,21.524963221483137,Current,Moderate,No,Diabetes,Heart Disease
+54,Female,104,154,105,21.760600853258662,Never,High,No,Diabetes,COPD
+38,Female,133,151,150,27.199185339581593,Never,High,Yes,Diabetes,Diabetes
+67,Female,138,171,196,34.66022552206101,Current,High,Yes,COPD,Heart Disease
+35,Female,164,261,157,37.75522223065135,Never,High,No,COPD,Heart Disease
+22,Female,150,206,173,19.850808569706423,Former,High,Yes,None,Heart Disease
+39,Male,156,215,84,26.648285966306823,Former,Moderate,Yes,Heart Disease,Heart Disease
+43,Female,95,223,165,20.205402401903285,Never,Low,No,Heart Disease,Cancer
+73,Male,98,247,192,18.365034573917153,Former,High,Yes,Cancer,Heart Disease
+75,Male,95,293,70,32.557811018167044,Current,High,No,COPD,COPD
+52,Male,162,261,191,31.25388772326493,Never,Low,Yes,Diabetes,COPD
+43,Female,121,274,195,21.586420503927496,Never,Low,No,Diabetes,Cancer
+71,Female,130,235,126,23.14388232804741,Current,Low,No,Cancer,Diabetes
+30,Female,165,225,150,18.521570580179404,Current,Low,No,Heart Disease,Diabetes
+68,Male,97,237,142,36.368838525276885,Current,Low,No,Diabetes,COPD
+27,Male,161,187,139,39.44319311306813,Never,Low,No,Heart Disease,COPD
+55,Male,139,208,75,20.980109809483196,Current,Moderate,Yes,Cancer,Cancer
+57,Male,151,287,153,23.09245470283656,Current,Low,Yes,Heart Disease,Diabetes
+59,Male,173,248,121,37.105009526832546,Former,Low,Yes,Heart Disease,Diabetes
+39,Male,151,212,72,38.38220355503607,Former,Moderate,No,Heart Disease,Heart Disease
+54,Female,96,198,150,27.231802421749826,Never,Low,Yes,Diabetes,Heart Disease
+67,Female,164,181,132,19.11369438991963,Former,High,No,None,Heart Disease
+44,Female,173,284,118,18.866620341242026,Former,High,No,COPD,Cancer
+54,Female,169,170,145,30.626897053518228,Current,Low,Yes,Heart Disease,COPD
+44,Male,93,169,181,26.64369239564994,Current,Moderate,No,Heart Disease,Cancer
+48,Male,95,276,178,18.630353406708398,Former,High,Yes,Heart Disease,Diabetes
+37,Female,147,217,134,30.83155263087625,Former,Moderate,No,None,COPD
+65,Male,111,259,150,18.248655804958496,Former,High,No,Cancer,Heart Disease
+37,Female,115,265,84,35.322183079284,Never,Low,Yes,Diabetes,Cancer
+21,Female,92,292,169,24.741522099474174,Never,Moderate,No,None,Cancer
+73,Female,130,269,101,18.885676066203107,Never,Moderate,Yes,Heart Disease,Heart Disease
+54,Male,149,228,165,30.943748861629373,Former,Moderate,No,None,Cancer
+35,Female,103,265,197,26.7490571175272,Former,High,Yes,None,Heart Disease
+60,Female,164,241,182,39.423609093857294,Never,High,No,None,Diabetes
+55,Female,171,163,152,29.97237057508145,Never,High,Yes,Cancer,COPD
+52,Male,101,274,112,24.05526198281418,Former,Low,Yes,COPD,Diabetes
+23,Male,176,207,185,33.607655021947444,Current,High,No,Diabetes,Diabetes
+52,Female,101,177,147,23.97282405593965,Never,Low,Yes,Cancer,Heart Disease
+33,Male,102,175,127,37.89335241096643,Former,Moderate,No,Cancer,Cancer
+40,Male,114,262,102,26.24388335116228,Former,Moderate,No,COPD,Diabetes
+67,Male,134,215,83,30.097108381076517,Current,Low,Yes,Cancer,Diabetes
+39,Male,108,280,128,19.112608284133035,Former,High,Yes,None,Diabetes
+75,Male,144,193,152,27.37466723494908,Former,Low,Yes,None,Cancer
+27,Male,134,246,190,36.31199787254189,Never,Moderate,Yes,Heart Disease,Cancer
+26,Male,97,191,152,35.724273717993526,Never,Moderate,Yes,Cancer,Heart Disease
+22,Male,142,155,96,22.935008294777578,Current,Low,No,Heart Disease,Diabetes
+36,Male,144,172,149,22.973739562232378,Current,High,Yes,Diabetes,COPD
+52,Male,121,238,82,35.98071686869121,Former,High,No,None,Cancer
+67,Female,140,272,133,38.46876524372516,Never,Low,Yes,Diabetes,Heart Disease
+31,Female,133,296,149,20.097940268006077,Current,Low,Yes,COPD,Diabetes
+78,Male,171,200,192,27.901290067376955,Current,High,Yes,None,COPD
+70,Female,159,160,112,25.423994137213036,Current,Moderate,No,Diabetes,Cancer
+41,Female,107,161,158,37.15514602006367,Former,Low,Yes,COPD,COPD
+74,Male,172,223,164,19.837548122960413,Never,High,No,Diabetes,Cancer
+41,Male,111,157,71,22.644770736276822,Current,High,No,COPD,Heart Disease
+65,Male,126,190,189,34.55430342690288,Never,Moderate,No,COPD,COPD
+49,Female,145,234,91,19.12846467758674,Current,Moderate,Yes,None,Diabetes
+57,Female,148,221,184,28.835778375714362,Current,Moderate,No,Heart Disease,Diabetes
+57,Male,92,204,126,27.72635476295384,Never,Moderate,Yes,COPD,Cancer
+64,Male,117,286,141,25.35682593775247,Never,Moderate,No,COPD,Diabetes
+70,Male,163,196,76,26.680590937016323,Never,Low,Yes,None,COPD
+73,Female,124,292,188,29.658692912465124,Former,High,No,Heart Disease,Heart Disease
+27,Female,150,253,183,21.55008188454443,Current,Low,Yes,Cancer,Cancer
+46,Female,143,191,85,30.58390932223904,Former,Low,Yes,Cancer,COPD
+46,Female,152,209,152,35.7195112445997,Never,Low,Yes,Heart Disease,Cancer
+53,Male,168,161,141,34.7235404553835,Current,Low,No,Diabetes,Heart Disease
+40,Male,96,279,193,21.385797903263022,Former,Low,No,None,Cancer
+49,Male,165,156,182,21.283488334312427,Current,Moderate,Yes,Heart Disease,Diabetes
+52,Male,138,229,81,23.899836090388092,Former,Moderate,No,Cancer,Diabetes
+47,Female,174,280,195,25.943643979502816,Never,High,No,COPD,Cancer
+66,Female,120,258,122,26.986022790986617,Former,Low,No,Cancer,Heart Disease
+52,Male,147,152,144,32.953338770333595,Current,High,No,COPD,Heart Disease
+24,Male,150,176,96,19.24696950764838,Current,Moderate,No,None,Diabetes
+79,Female,113,263,166,18.76279949297346,Current,Moderate,No,COPD,Heart Disease
+67,Male,109,256,74,26.622032384765998,Current,Moderate,No,Heart Disease,Cancer
+38,Female,126,189,126,33.33760122703557,Never,Low,Yes,COPD,COPD
+23,Male,93,278,147,22.255577545042616,Former,Low,Yes,Diabetes,Cancer
+54,Male,109,157,138,32.11309858763754,Never,Moderate,No,Heart Disease,Diabetes
+68,Male,149,250,187,23.71621903468659,Never,High,Yes,None,Diabetes
+36,Male,113,273,189,37.493894393897364,Never,High,Yes,Heart Disease,Diabetes
+63,Male,139,256,128,37.70517877386556,Current,Moderate,Yes,Diabetes,Heart Disease
+47,Male,138,250,102,24.540318494189183,Current,High,No,None,Cancer
+49,Male,140,153,131,23.05986258719129,Current,Moderate,No,Cancer,COPD
+48,Female,125,259,119,27.048687385457086,Former,High,No,Diabetes,Cancer
+65,Female,155,168,181,23.291694873963273,Current,Moderate,No,None,COPD
+72,Female,168,181,88,32.79244455241748,Former,High,No,COPD,Cancer
+25,Female,123,286,192,36.17342306006228,Current,Low,Yes,Heart Disease,Diabetes
+54,Female,125,161,116,32.808026880046775,Current,Moderate,No,None,COPD
+79,Male,95,288,102,36.135709839485685,Never,Moderate,Yes,Heart Disease,Cancer
+60,Male,128,195,153,26.73382756856443,Never,High,No,COPD,Heart Disease
+56,Female,131,268,148,21.43897335559494,Never,Moderate,Yes,None,Heart Disease
+43,Male,147,165,83,34.23492084274703,Former,Moderate,No,Cancer,Cancer
+48,Female,101,278,197,25.930439113114186,Former,Moderate,No,Diabetes,Diabetes
+68,Female,92,212,123,32.767958155040915,Current,Low,No,None,COPD
+65,Male,107,258,98,23.954166723598846,Former,Low,No,COPD,Cancer
+72,Male,129,268,93,19.787051965746798,Current,High,No,None,Heart Disease
+50,Male,110,170,151,39.83679950073079,Former,Low,No,Heart Disease,COPD
+54,Female,104,162,132,21.436433174473184,Former,High,Yes,None,Heart Disease
+79,Male,115,153,174,39.74526186719658,Former,Low,No,Cancer,Heart Disease
+52,Female,97,251,126,39.50015851646184,Never,High,Yes,None,Cancer
+71,Female,176,208,131,35.46399828597687,Former,Low,No,Diabetes,Heart Disease
+40,Female,131,277,86,32.50730516580395,Never,Low,Yes,None,COPD
+51,Male,133,176,135,30.711755105523864,Never,High,Yes,Heart Disease,Diabetes
+42,Male,103,218,75,37.05423399831236,Former,Moderate,Yes,None,Cancer
+52,Female,167,174,127,24.367669475628734,Current,Moderate,Yes,Cancer,COPD
+22,Male,91,280,138,28.288986674667296,Current,Low,Yes,COPD,Cancer
+37,Male,126,246,131,31.626579326063045,Current,High,Yes,None,Heart Disease
+44,Male,158,174,151,27.046190469128803,Former,Moderate,No,None,Heart Disease
+61,Female,127,297,140,27.404701989985895,Current,High,Yes,Diabetes,COPD
+50,Female,130,275,79,25.266262685045856,Never,Moderate,No,Cancer,COPD
+73,Male,151,282,167,30.413099967059793,Current,High,No,COPD,Diabetes
+77,Female,149,158,158,36.71263961633255,Former,Low,Yes,Heart Disease,COPD
+22,Male,103,265,104,22.433624316138882,Current,High,Yes,None,COPD
+59,Male,178,283,71,38.55752685257571,Never,Moderate,No,COPD,Cancer
+65,Male,173,209,193,33.159928382461054,Former,Low,Yes,Heart Disease,Heart Disease
+43,Male,91,270,93,36.112010678960665,Current,High,Yes,Cancer,COPD
+69,Female,159,288,143,30.236195237860258,Former,Moderate,Yes,Cancer,Diabetes
+51,Female,106,257,91,35.149367431329395,Former,Low,Yes,COPD,COPD
+66,Female,178,257,108,18.35640874146828,Former,High,Yes,Heart Disease,Heart Disease
+41,Male,117,280,89,36.004369345149776,Current,Moderate,Yes,Cancer,COPD
+42,Male,155,225,110,18.883054899878065,Former,High,Yes,COPD,Cancer
+21,Male,124,179,177,37.57809427998298,Current,High,No,Cancer,Heart Disease
+46,Female,94,170,153,39.82318043925015,Never,Low,Yes,Cancer,COPD
+61,Male,154,183,180,24.469484167889114,Current,Low,No,Cancer,Cancer
+21,Female,129,190,135,22.62700823828746,Never,Moderate,No,Diabetes,Heart Disease
+45,Female,165,200,122,34.8379940048769,Current,Low,No,Heart Disease,COPD
+36,Female,145,231,103,23.56657950024557,Former,Moderate,No,COPD,Cancer
+59,Female,125,207,136,37.04237242978847,Current,High,Yes,COPD,Diabetes
+52,Female,134,224,96,20.26253702746449,Former,High,No,Heart Disease,Cancer
+28,Female,112,172,79,20.77101432034588,Never,Moderate,No,Heart Disease,Diabetes
+62,Male,136,277,142,39.54133421221354,Current,High,No,Heart Disease,COPD
+73,Male,120,299,165,32.8244557619401,Former,Low,No,Heart Disease,Cancer
+67,Female,100,166,117,36.631518937436965,Never,High,No,None,Diabetes
+58,Female,99,218,139,25.135246301733396,Never,Low,Yes,COPD,Heart Disease
+48,Male,156,257,169,32.882642489453296,Current,Moderate,Yes,None,Cancer
+61,Female,103,288,128,31.07332020078914,Never,Moderate,No,Cancer,COPD
+74,Female,169,243,71,31.269302642704833,Former,High,Yes,Cancer,Heart Disease
+45,Male,163,164,134,33.01571410982987,Never,High,Yes,COPD,Diabetes
+54,Female,99,240,152,30.65790180884017,Never,Low,No,Cancer,Cancer
+69,Female,165,182,79,27.43937212465865,Former,Low,No,Heart Disease,Cancer
+44,Female,90,274,122,24.07029927637203,Never,High,No,None,COPD
+43,Male,94,165,148,34.908789280090446,Never,High,Yes,Heart Disease,Heart Disease
+32,Male,109,215,128,22.977993460070095,Never,Moderate,No,Cancer,Cancer
+79,Male,97,196,117,33.231794735397116,Never,Moderate,Yes,None,Cancer
+77,Female,132,297,192,23.133322098285184,Former,Moderate,Yes,Heart Disease,Heart Disease
+26,Female,165,273,91,31.757263738997985,Never,High,Yes,COPD,Cancer
+76,Male,90,150,169,34.435721876838635,Former,High,No,Heart Disease,Heart Disease
+55,Female,146,236,167,22.811705555943863,Never,High,Yes,Cancer,Heart Disease
+64,Female,153,277,94,19.318752618948782,Never,Moderate,No,None,Heart Disease
+39,Female,173,216,97,20.88142234587183,Never,High,No,COPD,COPD
+20,Female,117,153,182,31.331933279962563,Never,Low,No,None,Heart Disease
+27,Female,126,196,114,36.68782093696618,Former,High,No,COPD,Heart Disease
+65,Male,136,187,137,18.989930067179337,Former,High,No,None,Diabetes
+35,Female,165,292,76,34.15132769891622,Former,High,Yes,Cancer,Diabetes
+33,Male,126,170,118,25.509010210901145,Current,High,Yes,COPD,COPD
+31,Female,138,206,152,28.527624138229495,Never,High,Yes,Diabetes,Heart Disease
+70,Male,133,266,198,38.434910096602444,Never,Low,Yes,None,Diabetes
+42,Female,145,195,142,25.3033731041886,Former,Low,Yes,None,Diabetes
+34,Male,117,291,115,28.237412546668693,Current,High,No,Heart Disease,Cancer
+47,Female,168,294,175,18.301013124734986,Never,Moderate,No,COPD,Heart Disease
+53,Male,95,188,101,19.795171840106445,Former,High,Yes,Diabetes,Diabetes
+21,Female,150,286,75,23.68901500496525,Never,High,Yes,Cancer,COPD
+51,Male,109,248,143,18.612749298063637,Never,High,Yes,Heart Disease,Cancer
+42,Female,167,226,183,31.89025717306152,Former,Moderate,No,Diabetes,Cancer
+41,Male,91,264,96,27.380763849635695,Former,Moderate,No,COPD,Heart Disease
+70,Male,162,283,123,30.059194460016485,Never,Moderate,No,Diabetes,Heart Disease
+44,Female,126,240,154,21.84223808971925,Never,Low,Yes,None,Cancer
+77,Female,109,247,196,24.510504647605554,Former,Moderate,Yes,None,COPD
+41,Male,115,269,180,32.604138446759954,Never,Low,Yes,Heart Disease,Heart Disease
+77,Female,118,195,84,39.2366599198688,Never,Low,Yes,COPD,Heart Disease
+77,Male,90,187,162,19.109169019248604,Former,Moderate,No,COPD,Cancer
+41,Male,124,291,192,37.58845505881585,Never,Moderate,Yes,Diabetes,Cancer
+68,Male,159,249,142,30.691386428846585,Never,Moderate,Yes,Heart Disease,Heart Disease
+71,Female,148,221,161,30.406230468623722,Current,Low,Yes,COPD,Diabetes
+61,Male,158,184,86,29.00612777457073,Former,High,No,None,Heart Disease
+25,Male,122,296,112,19.526669889892034,Current,Moderate,No,Diabetes,Diabetes
+34,Female,140,179,190,19.977290738195535,Current,Moderate,Yes,Cancer,Cancer
+73,Female,167,227,110,31.220064124499892,Current,Moderate,No,None,Diabetes
+62,Female,101,233,108,25.501088571582283,Never,Low,No,Heart Disease,COPD
+79,Female,109,262,182,38.17989746470897,Never,Low,No,COPD,Cancer
+56,Male,142,174,180,26.94499182190839,Current,High,No,None,Heart Disease
+52,Male,177,237,116,21.152192091458105,Current,Moderate,No,Cancer,Heart Disease
+27,Male,132,163,132,33.72381433704479,Current,Low,Yes,Cancer,Cancer
+72,Male,178,251,179,24.453775271702217,Never,High,Yes,Heart Disease,Cancer
+79,Female,139,299,138,29.56034676182965,Current,Moderate,Yes,None,COPD
+63,Male,118,232,112,33.35232128111374,Current,Low,No,Diabetes,Cancer
+63,Male,146,259,103,37.80581044644555,Former,Moderate,No,None,Heart Disease
+24,Female,128,280,109,35.428206285636875,Former,Moderate,No,Cancer,COPD
+58,Male,145,168,130,32.87994349319993,Never,Low,No,Heart Disease,Heart Disease
+23,Male,132,177,131,32.95193001269316,Former,Low,Yes,Heart Disease,Diabetes
+25,Male,139,220,127,38.8103421687059,Former,Low,Yes,Diabetes,Cancer
+64,Male,112,212,144,24.508130144923793,Former,Moderate,Yes,Heart Disease,Diabetes
+51,Male,133,222,85,18.024466072316123,Never,Moderate,Yes,Heart Disease,Heart Disease
+71,Male,127,273,151,23.98300030676037,Former,High,Yes,Heart Disease,Diabetes
+49,Female,173,268,163,22.793610351788367,Never,Moderate,Yes,Heart Disease,Diabetes
+66,Female,112,270,117,32.56036087250796,Current,Low,No,Heart Disease,Heart Disease
+54,Male,134,168,151,31.941655194841637,Former,Moderate,No,Cancer,Heart Disease
+74,Male,141,291,107,31.056150419503922,Never,High,Yes,None,Cancer
+59,Female,169,269,196,18.357355750607983,Former,High,No,COPD,Diabetes
+71,Male,139,210,88,34.033117197914244,Current,Low,Yes,Heart Disease,COPD
+35,Male,97,179,132,25.117669074680812,Never,Low,Yes,COPD,COPD
+32,Male,174,158,146,32.63123175814589,Never,High,No,COPD,Heart Disease
+69,Female,90,213,171,30.244725427047374,Never,High,Yes,Cancer,Heart Disease
+79,Male,97,269,134,25.540080359413956,Current,High,Yes,Heart Disease,Diabetes
+61,Female,118,201,189,20.96067787629037,Current,Low,Yes,COPD,Heart Disease
+49,Male,94,238,160,20.07721574853058,Current,High,No,Heart Disease,COPD
+38,Female,175,291,77,36.29340332846892,Never,High,No,Diabetes,Cancer
+36,Female,136,202,142,38.20474592579428,Current,Low,No,Diabetes,Cancer
+75,Male,123,227,176,32.295337028814586,Former,Moderate,No,Diabetes,Diabetes
+38,Female,154,190,158,20.275550526930633,Current,Moderate,Yes,COPD,Cancer
+47,Male,144,217,108,26.844598771541296,Never,High,No,Diabetes,Heart Disease
+77,Female,179,157,182,34.03666240231346,Former,Moderate,No,Cancer,Heart Disease
+74,Male,132,151,97,35.1560594482215,Current,Moderate,No,Cancer,Heart Disease
+45,Male,163,254,166,20.60080969040395,Former,Moderate,Yes,COPD,Heart Disease
+56,Female,119,274,106,18.000675814598413,Former,Moderate,No,Heart Disease,Diabetes
+45,Male,171,259,151,33.66701500937331,Never,High,No,None,Cancer
+72,Male,106,235,125,25.845115871696525,Former,Moderate,Yes,Heart Disease,COPD
+42,Female,115,269,154,23.598589295601727,Former,Moderate,Yes,Heart Disease,Cancer
+28,Male,97,276,71,18.28374433536956,Never,Low,Yes,Heart Disease,Heart Disease
+31,Male,136,165,127,29.886586948752992,Never,High,Yes,Heart Disease,COPD
+72,Female,165,211,176,36.7253161793716,Never,Low,No,None,Diabetes
+20,Female,161,262,192,39.06789621799693,Former,Low,Yes,Diabetes,Heart Disease
+77,Male,178,161,183,30.446388913492363,Former,High,No,Heart Disease,Heart Disease
+77,Male,135,184,176,29.31814921027767,Former,Moderate,No,Cancer,COPD
+20,Female,157,160,106,19.871240480763305,Never,Low,No,COPD,Diabetes
+66,Female,122,213,148,30.075201633937194,Current,High,No,COPD,COPD
+53,Male,90,199,161,26.359539737238684,Former,Moderate,No,Cancer,Diabetes
+51,Female,108,298,87,31.356976179438693,Current,High,Yes,Heart Disease,Heart Disease
+73,Male,120,218,167,26.55197965328403,Never,Low,No,None,Cancer
+67,Male,169,197,132,23.28658071590807,Former,Moderate,No,Diabetes,Heart Disease
+44,Male,103,169,73,20.089236055024283,Current,Moderate,No,COPD,Cancer
+59,Male,142,250,130,24.928205780955707,Former,High,Yes,Diabetes,Cancer
+64,Male,137,286,176,20.12618635433055,Former,Moderate,No,None,Diabetes
+72,Female,158,217,123,21.891732918127648,Former,Low,No,COPD,COPD
+20,Female,179,184,157,39.72139548875001,Current,Low,Yes,Diabetes,Diabetes
+35,Female,151,214,137,27.770278251945612,Never,Low,No,None,Heart Disease
+58,Female,155,157,198,29.701178863110364,Former,High,No,Diabetes,COPD
+24,Male,153,194,124,37.21960763221874,Never,Moderate,Yes,Heart Disease,Cancer
+41,Male,159,236,72,39.90251581079513,Never,Moderate,No,None,Cancer
+48,Male,152,225,190,30.819717885582996,Current,Moderate,No,Diabetes,Heart Disease
+74,Male,162,225,198,35.87442406297178,Current,Low,No,Heart Disease,COPD
+22,Female,122,196,171,25.192702535406855,Never,Moderate,No,Heart Disease,Heart Disease
+31,Male,130,164,107,24.726367063840407,Former,Low,No,None,Heart Disease
+45,Male,178,254,154,26.859481861880326,Current,Moderate,Yes,Cancer,Diabetes
+35,Female,137,296,161,32.79515977882028,Former,Low,Yes,COPD,Heart Disease
+70,Female,102,175,90,33.00821716361217,Former,Moderate,Yes,None,COPD
+56,Female,162,201,178,24.93526756228792,Former,High,No,Heart Disease,Heart Disease
+41,Female,166,242,116,20.93061833100583,Never,High,No,Heart Disease,COPD
+76,Male,120,299,153,31.91271764224119,Former,Low,No,None,Cancer
+48,Male,164,170,152,20.82316896815282,Never,Low,Yes,Cancer,Heart Disease
+33,Female,157,200,104,30.72683518104526,Never,Moderate,No,COPD,COPD
+47,Male,93,187,138,33.2552868172388,Former,Moderate,No,Diabetes,Cancer
+24,Male,108,169,198,33.41345292067794,Former,High,No,None,COPD
+66,Male,159,281,96,34.57638643451113,Former,Moderate,Yes,COPD,Cancer
+68,Female,171,204,125,37.20290727444462,Former,Low,Yes,COPD,Diabetes
+49,Male,102,241,92,28.999097823225345,Never,Low,No,Heart Disease,Heart Disease
+65,Female,112,177,90,34.065482169650565,Former,Low,No,Diabetes,Heart Disease
+71,Male,172,153,130,31.62180017804841,Former,Low,No,None,Cancer
+24,Male,164,299,132,22.106078675549014,Never,Low,Yes,Heart Disease,Diabetes
+31,Male,90,225,191,18.56517218712698,Current,High,Yes,Heart Disease,COPD
+35,Female,177,216,121,24.259910484892544,Current,High,Yes,Cancer,Diabetes
+45,Male,143,235,157,27.746741539427624,Never,Low,No,COPD,COPD
+45,Female,160,240,124,31.57633077743044,Current,Moderate,Yes,None,COPD
+67,Female,178,254,115,36.69910527107052,Never,Low,No,None,Heart Disease
+40,Female,174,150,101,22.317405767535643,Former,High,No,None,Cancer
+58,Male,104,221,124,20.762095377766496,Former,Low,Yes,Heart Disease,Heart Disease
+55,Male,154,236,165,39.1965588444352,Current,High,No,Cancer,Heart Disease
+52,Male,165,155,105,20.376980306280956,Former,High,Yes,Diabetes,Heart Disease
+49,Male,160,294,179,28.52680354235816,Current,Low,No,Heart Disease,COPD
+56,Female,104,210,175,30.882402033452642,Current,Low,No,Diabetes,Heart Disease
+42,Female,110,161,127,29.910237259963644,Former,Moderate,Yes,Cancer,COPD
+77,Female,108,155,108,19.89270745472475,Former,High,No,COPD,Cancer
+29,Male,149,176,149,19.254592108079628,Current,Moderate,No,None,COPD
+73,Female,178,285,166,20.320635404142784,Former,Low,No,Diabetes,COPD
+24,Male,122,273,182,30.882929045197475,Never,High,No,Heart Disease,Diabetes
+55,Female,138,255,130,29.975587527955064,Former,Moderate,No,Diabetes,Heart Disease
+53,Male,124,242,75,23.142297424808373,Former,Moderate,No,COPD,Heart Disease
+71,Male,133,258,178,32.03103112060302,Never,Moderate,No,None,Heart Disease
+50,Female,179,248,104,36.041485045224285,Former,Low,No,Diabetes,Heart Disease
+29,Female,100,291,108,18.914737116625062,Former,Low,Yes,COPD,Diabetes
+77,Female,161,184,187,28.958858758056934,Current,Low,Yes,Heart Disease,Diabetes
+38,Female,167,233,74,33.16482906625919,Former,High,No,Cancer,Diabetes
+77,Male,163,205,156,23.550862395533116,Former,Low,No,Heart Disease,Diabetes
+51,Female,155,290,145,24.77095991644928,Never,High,Yes,None,Heart Disease
+20,Female,135,198,126,31.500033865766444,Current,Moderate,No,Heart Disease,COPD
+75,Female,98,195,196,37.75457645576221,Current,Moderate,Yes,Heart Disease,Cancer
+24,Male,92,262,98,35.81833724666379,Current,Low,Yes,Heart Disease,Diabetes
+64,Male,174,285,156,30.828864820190837,Former,Moderate,Yes,Heart Disease,COPD
+23,Female,115,192,115,34.06487779065948,Current,Low,No,None,Diabetes
+35,Male,161,297,185,26.026094344571572,Never,High,No,COPD,Heart Disease
+43,Female,137,273,181,32.10124161817267,Current,Moderate,No,Diabetes,Heart Disease
+35,Male,155,246,114,28.255995004806252,Never,Low,Yes,Cancer,COPD
+74,Male,159,239,173,22.178595002066338,Current,Moderate,Yes,Diabetes,COPD
+21,Male,117,188,154,33.43824202529966,Current,Moderate,Yes,Diabetes,COPD
+68,Male,115,234,177,30.242222021674085,Never,Low,No,Cancer,Heart Disease
+47,Female,114,211,87,25.88967480297901,Current,Moderate,Yes,None,Heart Disease
+51,Female,101,255,163,38.04946218172988,Current,Moderate,Yes,Cancer,Cancer
+46,Female,94,256,102,18.46055059218813,Current,Moderate,No,None,COPD
+39,Male,137,203,195,24.947009327488914,Former,Moderate,Yes,Diabetes,Cancer
+43,Female,126,275,191,19.251390751108225,Never,High,Yes,None,Diabetes
+31,Female,168,158,184,34.8636009568758,Current,Moderate,No,COPD,Cancer
+69,Female,133,237,97,33.446363990503436,Never,Moderate,No,Cancer,Diabetes
+54,Male,104,186,80,25.289748812198976,Never,Low,Yes,COPD,Diabetes
+79,Male,132,198,116,32.86458384855561,Never,High,No,Diabetes,Cancer
+52,Male,137,190,196,26.710618976310897,Current,Low,Yes,Cancer,COPD
+52,Female,176,166,187,34.637583411293555,Current,Low,No,Diabetes,Diabetes
+70,Female,159,237,195,27.992040580207533,Never,Low,Yes,COPD,COPD
+62,Female,135,170,141,27.07015401229664,Former,High,No,Diabetes,Heart Disease
+56,Male,132,200,176,38.56405814074262,Never,Low,Yes,Cancer,Diabetes
+31,Male,110,208,102,23.519340197595405,Former,Low,No,Cancer,Heart Disease
+22,Female,112,190,88,20.64984147992444,Never,Low,No,Diabetes,Cancer
+20,Male,169,188,143,30.85994849170808,Never,Moderate,No,Cancer,COPD
+52,Male,136,290,167,39.32507987025194,Never,Low,No,Cancer,Cancer
+59,Male,104,160,198,26.312462701998108,Current,High,No,Diabetes,Diabetes
+29,Male,114,296,162,19.36480879983319,Former,High,No,COPD,Heart Disease
+62,Female,125,288,117,25.464715880810484,Former,Moderate,No,Cancer,Diabetes
+63,Male,164,226,133,29.130496395030285,Never,High,Yes,Cancer,Cancer
+48,Male,140,276,130,21.5623061459087,Current,High,Yes,Cancer,COPD
+32,Male,104,195,108,32.47824879724283,Current,Moderate,No,Cancer,COPD
+31,Male,157,194,197,39.95048655822441,Former,Low,No,Diabetes,Diabetes
+50,Female,110,150,157,27.938268471591762,Current,Moderate,Yes,COPD,Diabetes
+65,Female,102,257,95,25.80402824806468,Former,Low,Yes,COPD,Heart Disease
+21,Male,175,168,86,26.815491670358266,Former,Low,No,None,Cancer
+70,Male,108,225,140,20.533215924694424,Former,High,Yes,Cancer,Diabetes
+69,Male,123,221,82,37.43201923137693,Current,Moderate,Yes,Cancer,Heart Disease
+54,Male,167,258,138,27.126164421469745,Former,High,No,None,Diabetes
+42,Male,157,161,95,26.52003705134651,Former,High,No,COPD,COPD
+36,Male,141,194,118,32.513186004470434,Never,Low,No,Heart Disease,Heart Disease
+45,Female,116,239,76,27.724735260484717,Former,High,Yes,Heart Disease,Heart Disease
+27,Male,118,252,127,32.26113631377261,Former,Moderate,No,COPD,Diabetes
+48,Female,117,157,118,19.351818382877326,Never,High,No,Cancer,Cancer
+45,Female,124,240,172,35.901913561889,Never,High,Yes,Heart Disease,COPD
+29,Male,97,236,122,38.691086963346855,Current,Low,No,Diabetes,Cancer
+45,Female,105,233,131,32.27283849550649,Former,Moderate,Yes,Diabetes,Heart Disease
+53,Female,125,231,86,39.000450434893835,Current,High,Yes,None,Cancer
+70,Female,119,295,94,21.331510916139194,Current,Low,Yes,COPD,Heart Disease
+60,Female,107,217,98,28.50315616856778,Never,High,Yes,COPD,Cancer
+26,Female,91,276,186,31.23974814679984,Current,Moderate,Yes,Heart Disease,Diabetes
+23,Female,138,231,95,30.798206243266108,Former,High,Yes,Cancer,Cancer
+77,Male,166,296,193,26.832159139958954,Never,High,No,COPD,Heart Disease
+72,Female,93,233,94,25.43785700605775,Former,Low,No,Heart Disease,COPD
+69,Female,179,262,123,20.79012849610921,Former,High,No,Heart Disease,COPD
+64,Female,178,225,142,26.61833391237012,Never,Low,Yes,COPD,COPD
+30,Male,164,271,189,21.57853793232067,Former,Moderate,No,Heart Disease,Heart Disease
+48,Female,96,292,125,34.15604488282881,Never,High,Yes,None,Cancer
+75,Male,163,190,134,22.59428058088098,Former,Moderate,No,None,COPD
+55,Female,128,151,162,19.288436716259746,Never,Moderate,Yes,COPD,COPD
+44,Male,102,178,155,30.152055031979152,Current,High,No,Cancer,COPD
+40,Male,120,254,149,31.095054119826834,Former,Low,Yes,None,Diabetes
+76,Female,160,200,177,37.18208734817112,Never,Moderate,No,None,Heart Disease
+55,Female,152,224,187,30.693595473189,Former,Moderate,Yes,COPD,Heart Disease
+29,Male,145,159,152,25.600578781915807,Former,High,No,Diabetes,Heart Disease
+56,Female,131,291,84,35.66626139357905,Former,High,Yes,Heart Disease,Heart Disease
+28,Male,150,200,99,29.886135650123265,Never,High,No,None,Heart Disease
+43,Male,131,267,126,19.744166261886217,Current,High,No,Diabetes,Diabetes
+54,Male,145,270,197,30.448712326891425,Current,High,No,Cancer,Cancer
+68,Male,125,188,117,37.976407999276574,Current,High,Yes,Diabetes,Diabetes
+54,Male,173,177,91,26.71887776096085,Never,Low,Yes,COPD,COPD
+67,Female,157,152,75,24.5191676417956,Current,Moderate,Yes,Cancer,Diabetes
+55,Male,96,233,173,21.15632805439644,Never,Low,Yes,Cancer,Heart Disease
+37,Male,143,266,105,21.33180148257786,Former,Low,Yes,Diabetes,Diabetes
+68,Female,90,151,148,27.520972655520016,Former,High,No,COPD,Heart Disease
+58,Male,133,242,185,31.10495613155365,Current,Moderate,Yes,None,Diabetes
+51,Female,134,280,126,19.773538913731237,Never,Low,No,Diabetes,Heart Disease
+43,Female,136,293,118,38.67050895855365,Former,High,No,None,COPD
+42,Female,102,243,151,34.612939583794315,Never,High,Yes,Diabetes,Heart Disease
+51,Male,111,189,135,30.90572620224058,Never,Moderate,No,None,Diabetes
+56,Male,110,151,146,36.2256507606578,Former,Low,Yes,Diabetes,COPD
+31,Male,175,230,114,19.764108649866493,Never,Low,Yes,Cancer,Diabetes
+68,Female,98,161,148,28.490455310128738,Former,Low,Yes,Heart Disease,COPD
+74,Male,115,214,89,31.862048790956596,Former,High,No,Cancer,Cancer
+32,Female,98,204,192,36.230363934602366,Former,Moderate,Yes,None,Cancer
+42,Male,104,194,136,35.23633032108389,Never,Moderate,Yes,COPD,Cancer
+44,Female,99,250,152,24.09552349369479,Former,Low,Yes,Cancer,Diabetes
+54,Male,177,211,72,38.699363730302494,Never,High,No,Heart Disease,Diabetes
+60,Male,131,198,133,20.73560851147915,Former,Low,Yes,None,COPD
+49,Male,161,276,109,37.25293960966535,Former,Moderate,No,Cancer,COPD
+36,Female,113,172,128,39.36068549130161,Current,High,No,Diabetes,COPD
+68,Female,169,187,131,21.897377510897762,Current,Low,Yes,COPD,COPD
+39,Male,138,177,129,33.88545341248327,Current,Low,No,None,Heart Disease
+67,Male,115,170,185,18.886281413115967,Never,High,No,Cancer,Cancer
+44,Female,126,256,144,26.91930215306141,Never,Moderate,Yes,None,Heart Disease
+41,Female,157,295,191,29.358232582348826,Former,High,Yes,Diabetes,Heart Disease
+32,Female,139,248,176,30.774194970011948,Former,Low,Yes,Heart Disease,Heart Disease
+78,Male,113,268,165,38.59061946146831,Former,Low,No,Cancer,Heart Disease
+38,Female,108,222,160,32.78951512047228,Former,Low,Yes,None,Cancer
+68,Male,149,271,199,28.588114926823216,Never,Low,No,None,Heart Disease
+55,Female,128,179,131,35.81285079784956,Former,Moderate,No,None,COPD
+31,Male,163,257,118,38.91172206099699,Former,Moderate,No,Heart Disease,Diabetes
+60,Female,178,247,161,18.485455271010398,Current,Low,No,None,COPD
+38,Female,107,181,193,39.61546798963285,Former,Moderate,No,COPD,Diabetes
+31,Female,108,228,130,19.894907059400968,Former,Moderate,Yes,COPD,COPD
+28,Female,125,190,117,35.91650914391275,Former,Moderate,Yes,None,COPD
+26,Female,163,212,127,24.167364556131076,Never,Low,No,COPD,Diabetes
+47,Male,144,172,170,20.90795247058518,Current,High,No,Cancer,Cancer
+33,Female,158,253,181,27.676824073704367,Former,High,Yes,COPD,Heart Disease
+50,Female,136,224,131,32.1670447478475,Former,High,Yes,None,COPD
+71,Female,138,197,108,26.380940590516452,Current,Low,No,Diabetes,Cancer
+38,Male,122,206,127,19.200438982219378,Former,Moderate,No,Cancer,Heart Disease
+77,Female,110,267,168,31.188145072491764,Never,Moderate,Yes,Heart Disease,Cancer
+66,Male,170,249,113,37.85287207443484,Former,Low,Yes,None,Cancer
+35,Female,111,273,98,26.430738050839537,Never,Low,No,Heart Disease,Heart Disease
+72,Female,137,183,128,22.759321107878193,Never,High,Yes,Diabetes,COPD
+24,Male,126,156,140,27.73670161052194,Former,High,Yes,Heart Disease,Cancer
+54,Female,104,205,161,19.06397964307318,Current,Low,No,None,COPD
+31,Male,124,214,78,36.050726858566044,Never,High,No,None,COPD
+44,Male,160,196,196,36.179497840904105,Current,Moderate,No,Diabetes,COPD
+71,Female,121,297,90,30.936010195451825,Former,Low,Yes,None,Heart Disease
+78,Male,100,168,133,25.76826355664457,Never,Low,No,Diabetes,Diabetes
+40,Female,99,295,159,35.59523401780723,Former,Moderate,Yes,Diabetes,COPD
+55,Female,162,275,105,30.20311454534408,Current,Moderate,No,None,Diabetes
+72,Male,167,288,131,36.17051078810036,Former,Moderate,No,COPD,Diabetes
+42,Male,166,198,145,31.892093436826453,Former,High,Yes,Diabetes,Cancer
+35,Male,146,262,82,35.256920410681545,Never,Low,Yes,None,COPD
+76,Male,114,187,80,31.16838585079072,Former,High,No,COPD,COPD
+58,Female,91,213,123,27.111103500744655,Former,Moderate,No,Diabetes,COPD
+64,Female,153,218,85,39.07480891837503,Former,High,Yes,COPD,Diabetes
+72,Male,124,285,77,29.904504147334585,Never,Moderate,No,Cancer,Heart Disease
+61,Female,96,265,173,31.311969407891844,Current,High,Yes,Cancer,Diabetes
+77,Female,174,214,128,22.850728067124486,Current,High,Yes,COPD,COPD
+58,Female,107,180,126,31.764317367400082,Former,Moderate,No,Diabetes,COPD
+33,Female,156,281,109,30.575368288624766,Never,High,Yes,None,COPD
+50,Male,131,262,199,22.06644475483455,Former,Low,Yes,Heart Disease,Diabetes
+77,Male,128,258,163,19.310916141769162,Current,High,Yes,None,COPD
+24,Female,130,218,113,31.295905033724964,Never,High,No,Heart Disease,Cancer
+54,Male,164,269,149,34.80122992570705,Current,Low,Yes,Heart Disease,COPD
+42,Male,113,237,150,29.51483016028418,Current,Moderate,No,Diabetes,Heart Disease
+48,Male,149,216,71,22.988997757032205,Never,Low,No,COPD,Cancer
+62,Female,135,224,184,32.663483487246765,Never,High,No,None,COPD
+30,Female,108,194,159,19.76232598541125,Former,Moderate,Yes,COPD,Cancer
+37,Female,157,153,92,27.720341505643,Former,High,Yes,Cancer,COPD
+66,Male,179,256,131,21.594068684765244,Current,High,No,Diabetes,Heart Disease
+31,Female,131,200,182,22.058099123317433,Never,Low,No,Diabetes,COPD
+28,Female,121,199,197,22.45046688148048,Never,Low,Yes,Cancer,Cancer
+29,Male,128,155,131,26.507555254967514,Former,Moderate,No,None,Heart Disease
+77,Female,125,208,107,19.125304523648747,Current,Moderate,No,Cancer,Diabetes
+63,Female,125,274,130,26.75145570044016,Current,Moderate,Yes,None,Heart Disease
+36,Male,92,292,198,29.257563836523417,Former,High,No,Heart Disease,Heart Disease
+57,Male,162,179,191,28.632474269259156,Never,Low,Yes,Diabetes,Heart Disease
+26,Male,97,271,179,26.421250208866894,Former,Low,Yes,None,Cancer
+65,Female,159,274,82,36.46122537755656,Former,Low,No,COPD,Heart Disease
+32,Female,130,186,169,21.19718723325109,Former,Moderate,Yes,COPD,COPD
+59,Female,157,273,91,29.125328363190228,Former,Low,Yes,Diabetes,Heart Disease
+61,Male,102,250,143,19.364911173044195,Never,Low,Yes,Cancer,Heart Disease
+28,Male,138,184,92,19.565424935314013,Former,Low,No,Cancer,COPD
+69,Female,149,236,188,30.62504869289612,Never,Moderate,No,None,COPD
+46,Female,91,283,139,30.45240534753206,Former,Low,No,Cancer,Diabetes
+77,Male,149,167,153,37.31673728257805,Current,Moderate,Yes,Diabetes,Heart Disease
+21,Male,94,262,170,30.273220864521612,Never,Low,Yes,None,Cancer
+24,Male,133,178,153,39.11540244890671,Current,Low,No,Heart Disease,Heart Disease
+48,Male,116,226,97,19.071286664798453,Former,Low,No,Cancer,Heart Disease
+56,Female,121,208,70,20.156169065176304,Former,Moderate,Yes,Cancer,COPD
+57,Male,110,275,132,18.96944895454839,Former,Moderate,No,None,Diabetes
+38,Female,97,294,91,22.07609070733788,Never,Low,No,COPD,Heart Disease
+27,Female,161,258,139,29.907942440716916,Current,High,No,Cancer,Cancer
+67,Female,139,171,194,32.20258799140342,Never,Moderate,No,Diabetes,Heart Disease
+64,Male,156,217,165,19.002873474870714,Never,Moderate,No,Cancer,Cancer
+20,Male,133,218,148,38.81135957660318,Former,Low,Yes,Heart Disease,COPD
+41,Male,147,198,74,36.52763828630839,Current,High,No,Cancer,Diabetes
+71,Male,92,290,129,24.525474607456047,Former,Low,No,COPD,Heart Disease
+36,Female,175,258,189,19.698125664982296,Never,Moderate,Yes,Cancer,Diabetes
+26,Male,159,235,115,21.73751561081926,Former,Moderate,Yes,None,Heart Disease
+44,Male,91,202,125,20.7927771026094,Current,Low,Yes,Cancer,Cancer
+64,Female,176,272,179,20.71224314457683,Former,Low,Yes,COPD,Diabetes
+23,Male,133,236,173,29.408357150646147,Current,High,No,None,Heart Disease
+55,Female,91,280,146,23.408643734854806,Current,High,No,Diabetes,COPD
+25,Female,170,191,71,25.879073763641177,Former,Moderate,No,None,Cancer
+79,Female,124,247,77,39.76911733445509,Never,High,No,Heart Disease,Diabetes
+50,Female,176,258,144,33.054913476357584,Former,High,Yes,None,Heart Disease
+38,Female,119,200,194,38.877574675034026,Never,Moderate,Yes,Diabetes,Diabetes
+63,Female,97,234,107,21.13624421072854,Never,Moderate,No,Cancer,Heart Disease
+73,Female,111,276,96,26.407068446316522,Former,Moderate,No,None,Cancer
+58,Female,133,170,89,30.204099672211793,Never,Moderate,No,None,COPD
+46,Male,147,193,112,19.688677361552237,Never,Low,No,None,Cancer
+29,Male,125,288,100,18.092123759815074,Former,Moderate,Yes,None,Diabetes
+45,Male,158,252,160,32.74955534353219,Former,Moderate,No,Diabetes,Diabetes
+38,Male,166,217,130,32.12002936963158,Former,Moderate,Yes,COPD,Heart Disease
+58,Female,120,278,178,27.03735381999146,Never,High,Yes,COPD,Cancer
+22,Male,136,241,160,28.77216967270472,Current,Moderate,Yes,None,Heart Disease
+64,Female,144,173,164,27.13974601302597,Never,Low,Yes,Diabetes,Cancer
+32,Male,169,274,82,18.528110986587556,Current,Low,No,Diabetes,Diabetes
+69,Male,151,290,182,25.378175336784174,Former,Moderate,No,None,Heart Disease
+47,Male,119,260,104,21.895809618740376,Current,Low,No,Heart Disease,Heart Disease
+77,Female,144,247,117,20.16533216023011,Former,High,No,None,Cancer
+39,Male,105,288,104,39.0478495455657,Former,Moderate,Yes,Heart Disease,COPD
+47,Female,101,166,155,31.18591395092764,Current,Low,Yes,None,Cancer
+27,Female,106,248,183,34.03043825320526,Former,Low,Yes,Heart Disease,COPD
+60,Male,105,231,169,24.938002351854585,Current,Moderate,No,Heart Disease,Cancer
+58,Male,101,253,168,26.649236848868334,Former,Low,Yes,None,Diabetes
+20,Male,97,168,72,23.212327865727914,Never,Moderate,Yes,Heart Disease,Heart Disease
+22,Female,173,234,154,20.133244761239343,Never,Low,Yes,Cancer,Cancer
+32,Male,92,157,194,21.938696023714844,Former,High,Yes,COPD,Diabetes
+47,Female,105,177,152,35.54530899652269,Former,Low,No,Diabetes,Cancer
+76,Female,119,154,94,32.90600771404307,Current,Low,Yes,Heart Disease,Heart Disease
+79,Male,112,294,137,30.03243527168049,Never,Moderate,Yes,Heart Disease,Cancer
+68,Male,94,250,130,28.4519772030689,Current,Low,No,Diabetes,COPD
+44,Female,173,267,98,38.29355424043474,Former,Moderate,No,Heart Disease,Heart Disease
+75,Female,154,296,196,19.600168851130704,Former,High,No,Diabetes,COPD
+52,Female,119,213,88,24.173217891234152,Current,Moderate,Yes,None,Diabetes
+57,Male,110,240,143,25.69863277855571,Former,Moderate,Yes,Cancer,Diabetes
+72,Female,173,266,130,35.21336786868133,Never,Low,Yes,Cancer,Cancer
+25,Male,159,247,89,39.83532164356337,Current,High,Yes,COPD,COPD
+77,Female,111,160,117,23.29475132465737,Never,Moderate,No,Heart Disease,COPD
+63,Female,171,203,156,37.23476135101578,Never,Low,Yes,COPD,Heart Disease
+64,Male,161,196,179,36.27370072949941,Never,Low,Yes,None,COPD
+51,Female,121,289,97,22.942462748118864,Current,Moderate,No,Cancer,COPD
+64,Male,122,298,128,26.785316764382898,Former,Low,No,None,Heart Disease
+66,Male,105,288,120,27.012803124435422,Never,Moderate,No,None,Heart Disease
+40,Female,165,154,81,39.520854707584284,Never,Moderate,Yes,Heart Disease,COPD
+35,Male,127,169,119,21.979621830335763,Never,Moderate,Yes,None,Cancer
+73,Male,103,195,182,35.581475364305206,Former,High,Yes,Cancer,Heart Disease
+40,Female,125,161,83,25.35223971180842,Former,Moderate,Yes,COPD,Heart Disease
+30,Male,112,219,101,34.07914760707553,Current,Low,Yes,Cancer,COPD
+79,Male,155,166,124,27.24024209450458,Former,High,No,Heart Disease,COPD
+56,Male,174,264,189,30.72391478856388,Current,Low,No,Cancer,Heart Disease
+55,Female,91,296,144,36.31745901317488,Current,High,Yes,Diabetes,COPD
+54,Male,162,197,90,35.691642429645455,Current,High,Yes,COPD,Heart Disease
+38,Female,154,257,156,37.061310037873405,Current,High,Yes,Diabetes,Cancer
+39,Female,164,201,128,19.3115811575825,Current,High,Yes,Diabetes,Cancer
+76,Male,156,245,158,33.22511216687438,Never,Low,Yes,Heart Disease,Heart Disease
+37,Male,141,219,152,21.079722287878784,Former,Moderate,No,None,Heart Disease
+66,Male,151,251,134,27.14800849640504,Never,Low,No,Diabetes,Diabetes
+60,Female,112,224,133,30.068945131203147,Current,Moderate,No,Cancer,Diabetes
+68,Male,115,292,140,26.860268664430276,Former,Low,Yes,None,COPD
+33,Male,157,231,73,29.431456867666164,Never,High,Yes,Cancer,COPD
+34,Male,171,241,173,39.92357879356962,Never,High,No,Cancer,Heart Disease
+50,Male,144,153,162,20.974780901682806,Current,Moderate,No,None,Heart Disease
+20,Male,95,284,181,32.86003299740136,Never,Moderate,Yes,None,Diabetes
+72,Female,124,258,188,26.712021260483535,Never,Low,No,Cancer,Diabetes
+73,Female,111,197,128,20.926215575961233,Never,Moderate,No,Heart Disease,Heart Disease
+73,Male,132,222,112,21.49220879423481,Never,Low,Yes,COPD,Cancer
+22,Male,104,221,81,38.88400833740357,Never,Moderate,No,COPD,Cancer
+35,Male,175,265,109,37.351232927658764,Current,Moderate,No,Heart Disease,COPD
+42,Male,149,230,187,37.95492312913048,Current,Moderate,No,None,Heart Disease
+76,Female,101,230,89,39.813721068202504,Never,High,Yes,Cancer,Heart Disease
+30,Male,138,262,159,22.582938580187395,Current,High,No,COPD,COPD
+31,Female,131,245,163,25.819665422009358,Current,Low,No,Cancer,Diabetes
+29,Female,127,221,82,32.722818658347066,Former,Moderate,No,Heart Disease,Diabetes
+51,Male,171,296,135,28.64365587693424,Never,Low,Yes,Cancer,Cancer
+35,Female,134,212,106,27.204569734323336,Current,Moderate,Yes,Heart Disease,Heart Disease
+27,Female,124,187,135,25.871847485383046,Current,High,No,None,Diabetes
+57,Female,119,216,105,31.06317390275595,Never,High,Yes,Heart Disease,Cancer
+31,Female,177,218,95,30.663055430081805,Former,Moderate,No,Heart Disease,Cancer
+43,Male,119,162,144,21.552072349413283,Never,Moderate,Yes,COPD,Cancer
+47,Male,167,180,177,28.37827642540566,Former,High,Yes,Cancer,Diabetes
+72,Female,95,263,112,30.176379076616698,Never,High,No,COPD,Diabetes
+27,Male,156,171,77,30.54631265209059,Never,Low,No,Diabetes,Heart Disease
+77,Male,169,242,98,22.62235824407174,Never,High,No,Heart Disease,Heart Disease
+47,Male,96,216,109,34.32997062955031,Never,Moderate,Yes,Diabetes,Cancer
+55,Male,141,203,197,18.55438008606353,Former,Low,No,COPD,Cancer
+45,Male,103,287,153,25.806300821949577,Former,Moderate,Yes,Cancer,Diabetes
+27,Female,162,191,185,35.16467826778394,Current,Low,Yes,COPD,Diabetes
+77,Male,104,213,131,30.405644263218853,Never,Moderate,No,Cancer,Heart Disease
+79,Male,110,275,76,23.745573515238924,Former,High,Yes,Cancer,Heart Disease
+69,Male,124,170,114,33.28896862554705,Former,Moderate,No,None,COPD
+47,Male,155,184,157,30.482600771433614,Former,Low,Yes,Heart Disease,Heart Disease
+47,Female,91,179,142,35.51735940804052,Never,Moderate,No,COPD,Diabetes
+56,Female,124,206,106,34.17055409617612,Current,Low,Yes,Cancer,Cancer
+60,Female,171,196,188,31.42237428479716,Former,Moderate,Yes,COPD,COPD
+55,Female,167,168,126,28.739908856837907,Never,High,No,COPD,Heart Disease
+46,Male,109,263,77,20.930006764685515,Former,High,Yes,Cancer,Heart Disease
+73,Female,171,157,164,23.74932639347844,Former,Moderate,No,Diabetes,Diabetes
+36,Male,99,175,186,27.220188404175875,Current,Moderate,Yes,Heart Disease,COPD
+28,Male,114,262,179,31.18458431414055,Former,Moderate,Yes,Heart Disease,Heart Disease
+52,Male,155,220,89,29.30157281473671,Former,Low,Yes,None,Cancer
+72,Male,114,179,193,24.34005957110965,Never,Moderate,No,None,Diabetes
+39,Male,143,284,122,18.142215871373633,Never,Moderate,No,None,COPD
+32,Female,122,216,188,28.917262881817905,Current,Low,No,Heart Disease,Heart Disease
+47,Female,125,214,81,24.283771748369347,Never,High,No,Diabetes,Heart Disease
+67,Female,103,185,86,34.16138261563177,Never,Moderate,No,Heart Disease,COPD
+48,Female,154,174,133,18.526817835950638,Current,Moderate,Yes,Heart Disease,Diabetes
+32,Male,169,186,111,30.8662118487274,Former,High,Yes,Heart Disease,COPD
+65,Female,143,150,163,38.71243322513344,Current,High,No,Heart Disease,COPD
+54,Male,141,292,80,21.83700387645299,Never,Low,Yes,Diabetes,Diabetes
+25,Female,92,186,167,28.376288796513098,Current,Moderate,Yes,None,Heart Disease
+37,Male,130,290,140,20.011283819977038,Former,Moderate,Yes,COPD,Cancer
+70,Male,95,285,177,31.765002069749755,Current,Low,Yes,None,Diabetes
+24,Female,114,282,127,30.111696973116963,Never,High,No,None,Cancer
+66,Male,102,277,103,26.962041532682314,Never,Low,Yes,COPD,Heart Disease
+44,Male,97,276,89,29.470294472422307,Current,High,No,Heart Disease,COPD
+21,Female,110,150,119,37.724642486318224,Former,Low,No,Diabetes,Cancer
+29,Male,157,184,171,22.318474650843477,Current,High,Yes,Diabetes,Heart Disease
+75,Female,114,253,121,18.49641925751764,Former,Low,No,None,Heart Disease
+49,Female,168,172,84,36.95662746338022,Former,High,Yes,COPD,COPD
+69,Female,157,158,153,30.696575812533943,Current,High,Yes,Cancer,COPD
+78,Male,134,183,106,37.59448602016053,Former,High,Yes,Heart Disease,Heart Disease
+64,Male,149,277,195,31.132794915089796,Never,High,No,None,Heart Disease
+24,Male,101,153,109,35.82354397911345,Current,High,No,Diabetes,Cancer
+74,Female,121,251,141,27.452813993813255,Former,Moderate,No,COPD,Heart Disease
+75,Male,102,224,109,34.49691848834191,Never,High,Yes,COPD,Heart Disease
+52,Female,120,248,125,38.086912271576836,Current,Moderate,Yes,None,Cancer
+73,Female,167,221,173,30.586705201888538,Never,High,Yes,Cancer,Diabetes
+20,Male,109,152,179,21.97727331237235,Never,Moderate,No,Diabetes,Cancer
+37,Female,107,291,162,23.91354753066436,Never,Moderate,Yes,None,Cancer
+51,Male,149,183,163,22.370180691742927,Former,Low,Yes,Cancer,COPD
+66,Male,152,194,125,23.430854607106124,Current,High,No,COPD,Cancer
+68,Male,95,210,129,24.741139885722802,Current,Low,No,Heart Disease,Heart Disease
+30,Male,121,232,108,30.212943308570146,Former,Low,No,Diabetes,Heart Disease
+40,Male,132,272,97,30.93581584820432,Current,High,Yes,Diabetes,Heart Disease
+45,Female,91,251,118,27.382994439320946,Never,Low,Yes,Cancer,Diabetes
+44,Female,149,165,194,31.53925715605838,Current,High,Yes,None,Heart Disease
+41,Female,112,215,82,19.79464836345005,Former,Low,No,COPD,Diabetes
+78,Male,172,294,105,19.93134121527952,Never,High,No,Cancer,Heart Disease
+46,Male,120,268,170,21.780248127868486,Former,High,No,Heart Disease,Cancer
+68,Male,94,273,95,29.397704956887587,Never,High,No,Heart Disease,COPD
+32,Female,172,293,155,22.7078829313629,Never,Moderate,Yes,Heart Disease,Heart Disease
+52,Male,123,251,73,24.2322568768367,Current,Low,Yes,Cancer,Diabetes
+53,Female,99,215,151,26.80688239580587,Never,Moderate,Yes,COPD,Diabetes
+60,Female,178,162,196,35.86105472822835,Former,Low,Yes,Diabetes,COPD
+54,Male,91,260,157,18.304966990082924,Current,Low,Yes,None,Heart Disease
+20,Male,100,183,196,32.28633404520569,Former,Low,Yes,Diabetes,Cancer
+40,Female,139,188,189,32.71528368289508,Never,Moderate,Yes,COPD,Heart Disease
+67,Male,120,285,91,35.570427167846006,Former,Low,Yes,Diabetes,Heart Disease
+74,Female,145,269,199,38.520564659326894,Former,Moderate,No,Cancer,COPD
+25,Male,168,275,100,18.443032676884375,Never,High,No,Heart Disease,Heart Disease
+47,Male,162,204,188,21.383241521290756,Current,Low,Yes,COPD,Cancer
+36,Female,176,176,80,37.49576846923185,Former,Low,No,COPD,Diabetes
+24,Male,172,267,115,28.08740836811434,Never,High,Yes,Diabetes,COPD
+50,Female,98,202,165,30.420994056536195,Current,High,Yes,Cancer,Cancer
+24,Male,110,188,79,32.58659848190924,Current,Low,No,Diabetes,Diabetes
+57,Female,162,214,197,32.939465298904025,Current,High,Yes,Diabetes,COPD
+22,Female,117,294,168,38.49828887296318,Former,Moderate,Yes,COPD,COPD
+72,Male,151,162,181,39.932887183056735,Former,Moderate,Yes,Diabetes,Diabetes
+42,Female,96,170,129,33.843464140480684,Former,Low,Yes,Heart Disease,Diabetes
+56,Male,169,296,156,24.318866602513317,Current,Moderate,Yes,Diabetes,Cancer
+72,Male,105,202,134,37.35455285047556,Former,Moderate,Yes,Heart Disease,Heart Disease
+56,Male,93,168,126,19.082860119896754,Never,Low,Yes,COPD,Heart Disease
+29,Female,93,206,175,23.083778763238918,Former,High,No,Cancer,Heart Disease
+29,Female,129,174,78,37.742485784201726,Former,Low,No,Heart Disease,Heart Disease
+38,Male,106,180,91,23.63621331766581,Current,Moderate,Yes,Cancer,Heart Disease
+36,Male,141,230,158,22.854323311678467,Former,Low,No,Cancer,Cancer
+40,Female,141,172,87,21.03875644908544,Never,Low,Yes,Heart Disease,COPD
+33,Male,125,181,184,36.90045866823216,Current,Moderate,Yes,COPD,Cancer
+28,Male,127,223,175,29.001281702203908,Never,Moderate,Yes,None,Cancer
+65,Female,139,159,84,32.84765046719141,Current,Low,Yes,Cancer,Cancer
+20,Male,152,203,132,23.259460449650653,Current,Moderate,No,Cancer,COPD
+70,Female,152,201,82,34.67688926224676,Former,Moderate,No,COPD,Cancer
+64,Male,151,297,150,34.72012198916617,Never,Moderate,No,COPD,Cancer
+32,Female,96,263,101,24.8771565479826,Current,Moderate,No,Diabetes,COPD
+23,Male,116,163,109,27.035017926226224,Former,Moderate,Yes,COPD,Cancer
+20,Male,175,259,151,22.613186103464418,Current,Moderate,No,Cancer,Heart Disease
+68,Female,103,202,146,39.4843425131039,Current,High,Yes,Heart Disease,Diabetes
+59,Male,160,228,145,32.203256695285056,Current,Low,Yes,None,Cancer
+51,Female,175,171,107,38.55996537574134,Current,Moderate,No,Diabetes,Diabetes
